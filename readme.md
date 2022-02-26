@@ -2,9 +2,9 @@
 
 ### Contributing or using
 #### Contributing
-+ Please clone (`git clone {repo http url}`) and create your own branch using `git checkout -b {give a branch name}`
++ Please clone (`git clone {repo http url}`) and create your own branch using `git checkout -b {give a branch namess}`
 + Do `npm install`
-+ After you're done adding your code, commit change and create a pull request
++ After you're done adding your code, commit change (step1: `git add .`, step2: `git commit -m "info about change"`, step3: `git push -u origin {your branch name}`) and create a pull request
 + Wait for the PR to be merged
 
 #### Using as a boilerplate for your own project
