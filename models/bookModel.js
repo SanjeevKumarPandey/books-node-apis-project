@@ -33,6 +33,16 @@ var getBook = function(req, callback){
   });
 }
 
+/**
+ * TO-DO
+ * 
+ * 1) Add a Book - addBook
+ * 2) Delete a Book - removeBook
+ * 3) Update a Book's Info - updateBook
+ * 4) Handle 'multiple books with similar title or from same author' cases for getBook - getBook
+ */
+
+
 module.exports = {
   getBook : getBook,
 }
